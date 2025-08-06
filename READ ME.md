@@ -6,7 +6,8 @@ collegegurudwarasahib
 -list 2
 tea&snacksinhoatelnumber2
 ## 10:00 am onwards 
-insightfuladdressesby
+-List3
+Grandwelcomeinauditorium
 *Dr.sehhijpalsingh(rincipal)
 *Dr.harpreetkaurgrewal(hod,appliedsciences)
 *Dr.akshaygirdhar(deanacademics)
