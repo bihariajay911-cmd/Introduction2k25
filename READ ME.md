@@ -15,4 +15,14 @@ Grandwelcomeinauditorium
 #specialthankstourguestsofhonour:*er.ravindergarg-chiefengineer,municipalcorporation,ludhiana
 *er.rakeshkumar-gndecalumnus(batch1991),adcludhiana
 #theeventconcludedwithavoteofthanksbydr.k.s.mann,hodit
+# day 2
+## 9:30 to 10:30 
+Englishproficiencytest 
+## 10:30 to 11:30 
+mathproficiencytest 
+## 11:30 to 1:00 
+break 
+## 1:00 to 2:00 
+lecturebydr.arshdeepsinhhonfoodapivotalrolwinstudentsoverallwellness"-auditorium
+
 
