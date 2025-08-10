@@ -45,6 +45,9 @@ expertlecturebypriyadarshnimadamon"universalhumanvalues2"-auditorium
 2:30 to 3:30 
 -list 4 
 sessionbycausmicclub-auditorium
+# day 5 
+-list 1 
+idcardformation(outsidetccsemhall)
 
 
 
