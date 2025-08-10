@@ -25,7 +25,7 @@ break
 ## 1:00 to 2:00 
 lecturebydr.arshdeepsinhhonfoodapivotalrolwinstudentsoverallwellness"-auditorium
 ## 2:00 to 3:00 
-sessionbycausmicclubandlaunchofinductionacrivities-auditorium
+sessionbycausmicclubandlaunchofinductionactivities-auditorium
 # day 3 
 -list 1 
 expertlecturebydr.jaswindersingh(inchargeIAPT)inauditorium
