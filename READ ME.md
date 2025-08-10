@@ -44,7 +44,7 @@ break
 ## 12:30 to 2:30 
 -list 3 
 expertlecturebypriyadarshnimadamon"universalhumanvalues2"-auditorium
-2:30 to 3:30 
+## 2:30 to 3:30 
 -list 4 
 sessionbycausmicclub-auditorium
 # day 5 
