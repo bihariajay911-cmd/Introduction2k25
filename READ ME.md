@@ -30,7 +30,21 @@ expertlecturebydr.jaswindersingh(inchargeIAPT)inauditorium
 
 -list 2
 expertlecturebypriyadarshnimadamon"universalhumanvalues"-auditorium
-
+# day 4 
+## 9:30 to 10:30 
+-list 1
+P2Plecture
+## 10:30 to 11:30 
+-list 2 
+Beeelecture
+## 11:30 to 12:30 
+break 
+## 12:30 to 2:30 
+-list 3 
+expertlecturebypriyadarshnimadamon"universalhumanvalues2"-auditorium
+2:30 to 3:30 
+-list 4 
+sessionbycausmicclub-auditorium
 
 
 
