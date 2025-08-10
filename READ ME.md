@@ -24,5 +24,12 @@ mathproficiencytest
 break 
 ## 1:00 to 2:00 
 lecturebydr.arshdeepsinhhonfoodapivotalrolwinstudentsoverallwellness"-auditorium
+# day 3 
+-list 1 
+expertlecturebydr.jaswindersingh(inchargeIAPT)inauditorium
+-list 2
+expertlecturebypriyadarshnimadamon"universalhumanvalues"-auditorium
+
+
 
 
